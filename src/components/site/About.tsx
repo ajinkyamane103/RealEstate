@@ -9,7 +9,7 @@ export function About() {
         <div className="relative">
           <img
             src={p1}
-            alt="Inside a Maison Lavande residence"
+            alt="Inside a Your Name  residence"
             loading="lazy"
             className="aspect-[4/5] w-full rounded-2xl object-cover shadow-elegant"
           />
@@ -26,7 +26,7 @@ export function About() {
           <SectionHeading
             eyebrow="The Builder"
             title={<>Three decades of <span className="italic font-serif font-normal text-primary">building trust</span>, brick by brick.</>}
-            description="Founded in 1998, Maison Lavande is a second-generation real estate developer renowned for honest engineering, design integrity and a relentless commitment to on-time possession."
+            description="Founded in 1998, Your Name  is a second-generation real estate developer renowned for honest engineering, design integrity and a relentless commitment to on-time possession."
           />
 
           <div className="mt-10 grid gap-5 sm:grid-cols-3">

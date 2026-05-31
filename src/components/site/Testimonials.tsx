@@ -3,7 +3,7 @@ import { Quote } from "lucide-react";
 
 const items = [
   {
-    q: "From the first site visit to handover, Maison Lavande felt less like a builder and more like a partner. The finishing is genuinely world-class.",
+    q: "From the first site visit to handover, Your Name  felt less like a builder and more like a partner. The finishing is genuinely world-class.",
     n: "Aarav & Priya Mehta",
     r: "Owners · Aurelia 14B",
   },

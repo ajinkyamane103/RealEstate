@@ -9,7 +9,7 @@ export function Footer() {
             <div className="flex items-center gap-2.5">
               <span className="grid h-9 w-9 place-items-center rounded-lg gradient-primary text-primary-foreground font-display font-bold">M</span>
               <div className="leading-tight">
-                <div className="font-display text-lg font-semibold">Maison Lavande</div>
+                <div className="font-display text-lg font-semibold">Your Name </div>
                 <div className="text-[10px] uppercase tracking-[0.22em] text-background/60">Builders &amp; Developers</div>
               </div>
             </div>
@@ -52,7 +52,7 @@ export function Footer() {
         </div>
 
         <div className="mt-10 flex flex-wrap items-center justify-between gap-4 border-t border-background/15 pt-6 text-xs text-background/60">
-          <div>© {new Date().getFullYear()} Maison Lavande Developers Pvt. Ltd. All rights reserved.</div>
+          <div>© {new Date().getFullYear()} Your Name  Developers Pvt. Ltd. All rights reserved.</div>
           <div className="flex gap-6">
             <a href="#" className="hover:text-secondary">Privacy</a>
             <a href="#" className="hover:text-secondary">Terms</a>

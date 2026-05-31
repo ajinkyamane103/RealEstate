@@ -16,7 +16,7 @@ export function WhyChooseUs() {
       <div className="mx-auto max-w-7xl px-6 lg:px-10">
         <SectionHeading
           align="center"
-          eyebrow="Why Maison Lavande"
+          eyebrow="Why Your Name "
           title={<>Six promises. <span className="italic font-serif font-normal text-primary">Zero compromises.</span></>}
         />
 

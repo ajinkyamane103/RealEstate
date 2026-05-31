@@ -34,7 +34,7 @@ export function Navbar() {
           </span>
           <div className="leading-tight">
             <div className={`font-display text-lg font-semibold tracking-tight ${scrolled ? "text-foreground" : "text-white"}`}>
-              Maison Lavande
+              Your Name 
             </div>
             <div className={`text-[10px] uppercase tracking-[0.22em] ${scrolled ? "text-muted-foreground" : "text-white/70"}`}>
               Builders &amp; Developers

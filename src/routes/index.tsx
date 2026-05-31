@@ -16,9 +16,9 @@ import { Footer } from "@/components/site/Footer";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Maison Lavande — Luxury Residences Crafted for Generations" },
-      { name: "description", content: "Premium RERA-approved residences, villas and penthouses by Maison Lavande Developers. 27 years of on-time delivery and uncompromising craft." },
-      { property: "og:title", content: "Maison Lavande — Luxury Residences Crafted for Generations" },
+      { title: "Your Name  — Luxury Residences Crafted for Generations" },
+      { name: "description", content: "Premium RERA-approved residences, villas and penthouses by Your Name  Developers. 27 years of on-time delivery and uncompromising craft." },
+      { property: "og:title", content: "Your Name  — Luxury Residences Crafted for Generations" },
       { property: "og:description", content: "Premium RERA-approved residences, villas and penthouses across Mumbai, Bengaluru and Gurugram." },
       { property: "og:type", content: "website" },
     ],

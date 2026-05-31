@@ -19,7 +19,7 @@ export function Location() {
             <SectionHeading
               eyebrow="Location Advantages"
               title={<>An address that <span className="italic font-serif font-normal text-primary">does the work</span> for you.</>}
-              description="Maison Lavande residences sit at the intersection of connectivity, calm and culture — minutes from the airport, schools and the city's finest."
+              description="Your Name  residences sit at the intersection of connectivity, calm and culture — minutes from the airport, schools and the city's finest."
             />
           </div>
 
