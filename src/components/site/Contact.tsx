@@ -49,8 +49,8 @@ export function Contact() {
 
           <div className="mt-12 space-y-5">
             {[
-              { Icon: Phone, t: "+91 98765 43210", s: "Mon–Sat · 9am–8pm" },
-              { Icon: Mail, t: "residences@maisonlavande.com", s: "Replies within 2 hours" },
+              { Icon: Phone, t: "+91 99999 99999", s: "Mon–Sat · 9am–8pm" },
+              { Icon: Mail, t: "yourmail@gmail.com", s: "Replies within 2 hours" },
               { Icon: MapPin, t: "Experience Center, Golf Course Road", s: "Gurugram, India" },
             ].map(({ Icon, t, s }) => (
               <div key={t} className="flex items-start gap-4">
